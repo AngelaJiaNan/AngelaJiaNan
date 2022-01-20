@@ -6,6 +6,12 @@
 
 
 ## 💻 Skills
+* JavaScript
+* React.js
+* HTML5
+* CSS3
+* Node.js
+* PostgreSQL
 
 ## :mailbox_with_mail: Let's Connect!
 
