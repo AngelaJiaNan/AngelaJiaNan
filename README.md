@@ -10,7 +10,7 @@ Programming has taught me to be okay with the unknown and not be scared to try n
 
 When I am not coding, you can find me at the dog park or on a hike.
 
-Currently learing: React hooks,
+Currently learing: React hooks
 
 
 ## 💻 Skills
