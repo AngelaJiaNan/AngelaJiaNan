@@ -10,6 +10,8 @@ Programming has taught me to be okay with the unknown and not be scared to try n
 
 When I am not coding, you can find me at the dog park or on a hike.
 
+Currently learning: hooks
+
 
 ## 💻 Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
