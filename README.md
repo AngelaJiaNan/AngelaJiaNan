@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelajianan&hide=stars,issues&theme=buefy&show_icons=true)
 
 ##  About Me :dog:
-Hello! My name is Angela Jia Nan and I am a software engineer with a passion to solve problems and constantly improve my skillset! I know JavaScript, React, Node.js, Express and more!
+Hello! My name is Angela Jia Nan and I am a software engineer with a passion to solve problems and constantly improve my skillset! I know JavaScript, CSS, HTML, React, Node.js, Express and more!
 
 :monocle_face: Ask me how I started!
 
